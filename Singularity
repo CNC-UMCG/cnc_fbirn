@@ -4,6 +4,8 @@ From: CNC-UMCG/cnc_base
 
 %environment
 
+%files
+    scripts/* /usr/bin/cnc
 
 %post
 
